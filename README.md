@@ -40,7 +40,7 @@
   <summary><b>Instwise AI Bot 🤖</b></summary>
   <p>
     An intelligent assistant designed to make your workflow smarter, faster, and more personal.<br>
-    <a href="https://github.com/sushi057/instwise-ai-bot"><img src="https://img.shields.io/github/stars/sushi057/instwise-ai-bot?style=social" alt="GitHub Repo stars" /></a>
+    <a href="https://github.com/sushi057/InstWise-customer-bot"><img src="https://img.shields.io/github/stars/sushi057/instwise-ai-bot?style=social" alt="GitHub Repo stars" /></a>
   </p>
 </details>
 
