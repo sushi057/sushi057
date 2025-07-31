@@ -48,9 +48,6 @@
 
 ## 📈 GitHub Stats & Visuals
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushi057&label=Profile%20views&color=00FFD6&style=flat-square" alt="profile views" />
-</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sushi057&show_icons=true&count_private=true&theme=radical&hide_border=true" height="170" />
