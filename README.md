@@ -64,8 +64,3 @@
   <a href="https://www.linkedin.com/in/sushi057"><img src="https://img.shields.io/badge/LinkedIn-00FFD6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:suvash2077@gmail.com"><img src="https://img.shields.io/badge/Email-282828?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<!-- Decorative Divider -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sushi057/sushi057@main/assets/wave-divider.svg" height="45" />
-</p>
