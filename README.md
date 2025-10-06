@@ -46,17 +46,6 @@
 
 ---
 
-## 📈 GitHub Stats & Visuals
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushi057&show_icons=true&count_private=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushi057&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushi057&layout=compact&theme=radical&hide_border=true" height="170" />
-</div>
-
----
-
 ## 🎨 Just for Fun
 
 <p align="center">
